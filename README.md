@@ -6,11 +6,17 @@
         <tr>
             <table border="1px solid;" bgcolor="red" cellpadding="10px" cellspacing="10%">
                 <tr>
-                    <td colspan="2">MSI (Logo de la empesa)</td>
+                    <td colspan="2" style="text-align: center;"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/MSI_free_logotype.png" width="120px"></td>
                     <td>Micro-Star International</td>
+                    <td>
+                        <ul>
+                            <il> Quienes somos </il>
+                            <il> Acuerdos y condiciones </il>
+                        </ul>
+                    </td>
                 </tr>
-                <tr>
-        </tr>        
+        </tr>
+        <tr>        
             <td colspan="2" width="40%"> <!--Ancho de la celda izquiera, para que la linea central se alinee.-->
                 <table border="1px solid;" bgcolor="#009EE8" cellpadding="2%" width="100%" align="left"> 
                     <ol>
@@ -21,14 +27,15 @@
                             <li> Audifonos </li>
                             <li> Sillas </li>
                             <li> Ratones </li>
-                        <ul>
-                            <li> Quienes somos </li>
-                            <li> Acuerdos de uso </li>
-                            <li> </li>
                         </ul>
-                        </ul>
-                        </td>
                     </ol>
+                    <hr>
+                    <ul>
+                        <li> Metodos de Pago </li>
+                        <li> Envios </li>
+                        <li> MSI en Colombia </li>
+                    </ul>
+                    </td>
                     </tr>
                 </table>
             </td>
